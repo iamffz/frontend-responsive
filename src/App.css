@@ -390,6 +390,10 @@ article {
     font-size: 1.25rem;
   }
 
+  .section-footballer .content-wrapper:last-child {
+    padding-bottom: 0px;
+  }
+
   .section-footballer .content-wrapper:first-child .content-box {
     padding-bottom: 56px;
   }
