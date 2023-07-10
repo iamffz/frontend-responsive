@@ -14,6 +14,10 @@ React
 https://frontend-test.iamffz.me/
 
 
+## Screenshots
+
+![App Screenshot](https://frontend-test.iamffz.me/screenshort.png)
+
 ## Run Locally
 
 #### Install dependencies
